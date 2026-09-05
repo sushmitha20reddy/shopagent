@@ -5,7 +5,7 @@ const catalog = [
     id: "aerobuds-pro",
     name: "AeroBuds Pro",
     category: "Audio",
-    price: 1,
+    price: 8999,
     stock: 14,
     image:
       "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
