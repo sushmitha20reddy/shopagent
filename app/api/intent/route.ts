@@ -3,7 +3,7 @@ import { Product } from "../products/route";
 
 const catalog: Product[] = [
   {
-    id: "aerobuds-pro", name: "AeroBuds Pro", category: "Audio", price: 8999, stock: 14,
+    id: "aerobuds-pro", name: "AeroBuds Pro", category: "Audio", price: 1, stock: 14,
     description: "Adaptive-noise-cancelling earbuds with 32-hour battery life.", score: 94,
     reason: "Strong fit for deep-work focus and travel.", image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
   },
