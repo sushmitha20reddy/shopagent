@@ -17,7 +17,7 @@ const products: Product[] = [
     id: "aerobuds-pro",
     name: "AeroBuds Pro",
     category: "Audio",
-    price: 8999,
+    price: 1,
     stock: 14,
     description: "Adaptive-noise-cancelling earbuds with 32-hour battery life.",
     score: 94,
